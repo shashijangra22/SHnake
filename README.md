@@ -5,3 +5,4 @@ We are the 90’s kids so each one of us must have played the SNAKE GAME once in
 2) The length of the snake can increase periodically. The rate at which the length of the snake increases can be set by you just make sure it looks fine. 
 3) When the snake reaches the end of any of the four sides of the terminal then It should  Restart from middle. 
 4) The colour of the snake should change for every change in direction randomly.
+5) The snake will die and restart at the center if it eats itself.
